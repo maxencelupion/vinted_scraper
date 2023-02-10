@@ -4,8 +4,9 @@ An easy functional scraper of the website Vinted. The output is stored in an MyS
 # Requirements :
 
 You need to install :
-- MySql connector
-- Selenium
+- [MySql](https://dev.mysql.com/downloads/installer/)
+- MySql connector ```pip install mysql-connector-python```
+- Selenium ```pip install selenium```
 
 # Usage :
 ```
