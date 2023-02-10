@@ -58,7 +58,6 @@ for u in range(value):
             mycursor.execute(f"INSERT IGNORE INTO product (price, product_id) VALUES ('{item}', '{item2}')")
 
         driver.quit()
-        print(u)
         if (u + 1 != value):
             time.sleep(60)
 
