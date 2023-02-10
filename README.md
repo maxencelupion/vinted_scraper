@@ -18,5 +18,9 @@ Here you need to enter your MySQL localhost password (hidden by getpass) with ro
 <p align="center">
   <img src="https://user-images.githubusercontent.com/114016583/218109174-182cb731-e1f3-432f-973a-b2ae8f20e21d.png" width="400">
 </p>
+Now you just need to enter the Vinted url you want to scrape and it's done !
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/114016583/218112169-22352178-0539-471b-9520-916fb03a2e25.png" width="400">
+</p>
 
 #### Now the program will run in headless mode.
